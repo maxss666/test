@@ -10,7 +10,7 @@ def Draw_Cell(main_sf: pygame.Surface, list_of_zone_of_smell, width, length, map
     :param length: длина клеткиdwdwdsdsdffndnckdcndnc
     :param map: двойной список элемент каждого - кортеж координат клетки на полке
     :return: None
-    """
+    ""svvdvd"
     for i in list_of_zone_of_smell:
         for j in i:
             sf_сell = pygame.Surface((width, length))
