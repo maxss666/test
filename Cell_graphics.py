@@ -7,7 +7,7 @@ def Draw_Cell(main_sf: pygame.Surface, list_of_zone_of_smell, width, length, map
     :param main_sf: тот surface на котором надо нарисовать клетку
     :param list_of_zone_of_smell: двойной список(таокого-же размера как и map), содержащий клетки
     :param width: ширина клетки
-    :param length: длина клеткиdwdwd
+    :param length: длина клеткиdwdwdsdsdff
     :param map: двойной список элемент каждого - кортеж координат клетки на полке
     :return: None
     """
