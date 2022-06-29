@@ -63,7 +63,7 @@ class Map:
 
 
     def print_info_points(self):
-        print("Массив координат клеток всей карты")
+        //print("Массив координат клеток всей карты")
         for i in self.arr:
             for j in i:
                 j.pprint()
